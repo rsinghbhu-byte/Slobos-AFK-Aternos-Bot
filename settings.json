@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": Birenultra.aternos.me:64382,
+    "ip": Birenultra.aternos.me,
     "port": 64382,
     "version": "",
     "try-creative": false
